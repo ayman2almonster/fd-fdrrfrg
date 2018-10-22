@@ -1,6 +1,6 @@
 var analyrics = require("analyrics"); //npm i analyrics
 var hastebin = require('hastebin-gen'); //npm i hastebin-gen
-analyrics.setToken("vQC2IQZ30BSOD664jJz7LKbUEy1It_qkNBWpCYR9WexY_xYhX0Tqzh4Y91dgT8eF");
+analyrics.setToken("NTAzNTQzMjczNTgzOTM1NDg5.Dq_Idw.BvWsp0NYKGooGMGYUKcqBmNY1lw");
 
 client.on("message", async message =>{
 if(message.content.startsWith("=lyrics")){
